@@ -1,0 +1,7 @@
+{
+  "California": ["Los Angeles", "San Francisco"],
+  "Texas": ["Houston", "Dallas"],
+  "Maharashtra": ["Mumbai", "Pune"],
+  "Delhi": ["New Delhi"],
+  "Karnataka": ["Bangalore", "Mysore"]
+}
